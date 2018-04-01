@@ -22,4 +22,7 @@ clone the git repostory go insite tutorial get a file name manage.py
        
        
     
+    when you hit the url 127.0.0.1:8000/snippets  it give all deatils of all employe and when you type     127.0.0.1:8000/snippets/1/ : this give the detail of employee whose Id is one you can delete the details of that employee also
+    
+Also in this app have user authentication functionlaity to secure your application I just have comment that part
    
